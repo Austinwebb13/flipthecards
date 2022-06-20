@@ -1,0 +1,219 @@
+
+body {
+background: radial-gradient(#3f53fb, #111010);
+background-position: cover;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: unispace;
+  color: white;
+}
+
+.GameBoard {
+    width: 865px;
+    height: 860px;
+    margin: auto;
+    border: 2px solid white;
+background: radial-gradient(grey, white);
+}
+.box{
+  position: absolute;
+  top: 93px;
+  left: 542px;
+}
+.box1{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box2{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box3{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box4{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box5{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box6{ 
+       /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box7{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box8{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+ .box9{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box10{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box11{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box12{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+
+.box13{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box14{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box15{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+.box16{ 
+        /* Created with https://www.css-gradient.com */
+background: rgba(10, 11, 24, 1.0);
+background: -webkit-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: -moz-linear-gradient(left, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));
+background: linear-gradient(to right, rgba(10, 11, 24, 1.0), rgba(21, 32, 126, 1.0));;
+        border: 1px solid grey;
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        margin: 2px
+      }
+      
