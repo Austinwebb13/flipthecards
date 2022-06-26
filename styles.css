@@ -1,31 +1,35 @@
-
 body {
-background-color:  orange ;
-background-position: cover;
+          background-color:  orange ;
+          background-position: cover;
 }
-
 
 h1 {
-  text-align: center;
-  font-family: unispace;
-  color: white;
-  
-}
- .box{ 
-        
-        border: 6px solid black;
-        display: inline-block;
-        width: 200px;
-        height: 200px;
-        margin: 2px;
-      }
-.boxes{
-position: flex;
-padding-left: 550px;
+          text-align: center;
+          font-family: unispace;
+          color: white;
 }
 
-      .box:hover{ 
-         background-color: cornflowerblue;
+h2{
+          font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+          text-align:center;
+}
+ .box{ 
+          border: 6px solid black;
+          display: inline-block;
+          width: 200px;
+          height: 200px;
+          margin: 2px;
+}
+
+
+.boxes{
+          position: flex;
+          padding-left: 550px;
+}
+
+
+.box:hover{ 
+          background-color: cornflowerblue;
  }
 
  
